@@ -25,11 +25,9 @@ C:\ApiModulo\obj\Debug\net8.0\refint\ApiModulo.dll
 C:\ApiModulo\obj\Debug\net8.0\ApiModulo.pdb
 C:\ApiModulo\obj\Debug\net8.0\ApiModulo.genruntimeconfig.cache
 C:\ApiModulo\obj\Debug\net8.0\ref\ApiModulo.dll
-C:\ApiModulo\bin\Debug\net8.0\ApiModulo.staticwebassets.endpoints.json
-C:\ApiModulo\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\ApiModulo\obj\Debug\net8.0\ApiModulo.sourcelink.json
-C:\ApiModulo\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\ApiModulo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\ApiModulo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\ApiModulo\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\ApiModulo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\ApiModulo\obj\Debug\net8.0\staticwebassets\msbuild.ApiModulo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ApiModulo\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiModulo.props
+C:\ApiModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiModulo.props
+C:\ApiModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiModulo.props
+C:\ApiModulo\obj\Debug\net8.0\staticwebassets.pack.json

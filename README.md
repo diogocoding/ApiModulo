@@ -10,6 +10,8 @@ Todos os endpoints podem ser testados via **Swagger**.
 
 ---
 
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/f3e8d09a-330f-410f-9b31-65ddda0639e5" />
+
 ---
 
 ## 🚀 Funcionalidades
